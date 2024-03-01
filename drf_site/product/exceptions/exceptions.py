@@ -1,0 +1,6 @@
+class CustomUserNotExists(Exception):
+    ...
+
+
+class ProductNotExists(Exception):
+    ...
